@@ -2,7 +2,7 @@ import random
 import sys
 import time
 
-gold = 500
+gold = 50
 inventory = []
 player_health = 100
 player_damage = 10
